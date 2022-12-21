@@ -1,0 +1,7 @@
+PUT: test3.txt\MAX-AGE: 10
+PUT: test1.txt\MAX-AGE: 30
+PUT: test2.txt\MAX-AGE: 30
+PUT: test3.txt\MAX-AGE: 30
+WAIT: 10
+PUT: dga.jpg\MAX-AGE: 10
+GET: dga.jpg
